@@ -38,5 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
                     in "GranHotelExercise/Frontend Gran Hotel/FrontendGranHotel/src/environment.ts", then in the terminal you must write the command ng serve -o 
                     for its operation and it directs us to the web application to be able to use it.
                     
-- ### Important Notes: status A means available and N means not available, when a reservation goes to status A it is not taken into, it is like a logical elimination 
+- ### Important Notes: status "A" means available and "N" means not available, when a reservation goes to status A it is not taken into, it is like a logical elimination 
+
+- ### If the client does not exist at check-in, it is created automatically, if it has an ID already created, it is obtained with the name of the check-in database. To check out you only need to press the button since the departure date is the current one
              
